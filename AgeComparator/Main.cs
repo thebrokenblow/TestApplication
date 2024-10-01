@@ -4,9 +4,9 @@ public class Main
 {
     public void main()
     {
-        int vasyaAge = 55;
-        int katyaAge = 55;
-        int mishaAge = 55;
+        int vasyaAge = 29;
+        int katyaAge = 14;
+        int mishaAge = 36;
 
         int min = -1; // минимальный возраст
         int middle = -1; // средний возраст
